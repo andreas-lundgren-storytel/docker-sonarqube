@@ -7,4 +7,4 @@ The full readme is generated over in [docker-library/docs](https://github.com/do
 [![Build Status](https://travis-ci.org/SonarSource/docker-sonarqube.svg)](https://travis-ci.org/SonarSource/docker-sonarqube)
 
 test
-![](https://docs.google.com/drawings/d/e/2PACX-1vQY9FZCDdYmZF6s4co930yIJMqunaGJoBgrcFhBY1ur4bQE5bQp3t04BSGBTsIpRVkWEIzVEIGvU8Md/pub?w=739&h=482)
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQY9FZCDdYmZF6s4co930yIJMqunaGJoBgrcFhBY1ur4bQE5bQp3t04BSGBTsIpRVkWEIzVEIGvU8Md/pub?w=739&amp;h=482">
